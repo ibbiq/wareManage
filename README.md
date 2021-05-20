@@ -1,0 +1,2 @@
+# wareManage
+warehouseManagementSystem
